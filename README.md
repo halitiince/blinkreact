@@ -8,8 +8,9 @@
   
   ![BlinkReact Logo](https://img.shields.io/badge/BlinkReact-Performance%20Analysis-blue?style=for-the-badge)
   
-  [![npm version](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/blinkreact)
+  [![npm version](https://img.shields.io/npm/v/blinkreact.svg)](https://www.npmjs.com/package/blinkreact)
   [![License: ISC](https://img.shields.io/badge/License-ISC-green.svg)](https://opensource.org/licenses/ISC)
+  [![npm downloads](https://img.shields.io/npm/dm/blinkreact.svg)](https://www.npmjs.com/package/blinkreact)
   
   **A powerful performance analysis tool for React components that detects unnecessary re-renders, measures render times, and provides optimization suggestions.**
   
