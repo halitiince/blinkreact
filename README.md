@@ -101,7 +101,7 @@ BlinkReact generates a detailed `PERFORMANCE_REPORT.md` file containing:
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/blinkreact/issues).
+Contributions, issues and feature requests are welcome! Feel free to check the [issues page](https://github.com/halitiince/blinkreact/issues).
 
 ## 📝 License
 
