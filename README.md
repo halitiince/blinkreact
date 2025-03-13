@@ -2,6 +2,10 @@
 
 <div align="center">
   
+  <p align="center">
+    <img src="./assets/blinkreact-logo.png" alt="BlinkReact Logo" width="200" height="200"/>
+  </p>
+  
   ![BlinkReact Logo](https://img.shields.io/badge/BlinkReact-Performance%20Analysis-blue?style=for-the-badge)
   
   [![npm version](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/blinkreact)
